@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author docaf
+ *
+ */
+module chess {
+}
