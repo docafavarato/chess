@@ -1,7 +1,7 @@
 # Chess
 
 ## About
-> A fully functional object oriented Chess game.
+> A fully functional object oriented Chess game written in Java.
 
 ## Images
 > ![image](https://user-images.githubusercontent.com/98183878/236685096-7eaf4199-1aab-4b1c-bb8e-d06598bd1a1c.png)
